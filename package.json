@@ -1,0 +1,34 @@
+{
+  "name": "mini-style-loader",
+  "version": "0.0.1",
+  "description": "min style loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "css-loader": "^0.27.3",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "loader-utils": "^1.0.2"
+  },
+  "files": [
+    "addStyle.js",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderwin/mini-style-loader.git"
+  },
+  "keywords": [
+    "style-loader",
+    "min-style-loader"
+  ],
+  "author": "chunk.cj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coderwin/mini-style-loader/issues"
+  },
+  "homepage": "https://github.com/coderwin/mini-style-loader#readme"
+}
