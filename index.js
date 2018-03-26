@@ -1,5 +1,5 @@
 /*
- * require('luna-style!css!less!./style/style.less');
+ * require('mini-style!css!less!./style/style.less');
  */
 var loaderUtils = require("loader-utils"),
   path = require("path");
